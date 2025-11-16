@@ -11,7 +11,7 @@ A **machine learning model** to predict diamond prices (in INR) using physical c
 
 ## Output Overview
 **Live Prediction Example**  
-![Diamond Price Prediction App]([./assets/app_screenshot.png](https://github.com/datta116/Diamond_price_prediction/blob/main/Docs/Screenshot%202025-11-16%20073556.png))
+![Diamond Price Prediction App]([[./assets/app_screenshot.png](https://github.com/datta116/Diamond_price_prediction/blob/main/Docs/Screenshot%202025-11-16%20073556.png](https://github.com/datta116/Diamond_price_prediction/blob/52fc1c25dbe42ffd0ba754ac898378c747301cd5/Docs/Screenshot%202025-11-16%20073556.png)))
 
 ## 📊 Project Overview
 
