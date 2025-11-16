@@ -13,6 +13,15 @@ A **machine learning model** to predict diamond prices (in INR) using physical c
 **Live Prediction Example**  
 ![Diamond Price Prediction App](https://github.com/datta116/Diamond_price_prediction/blob/52fc1c25dbe42ffd0ba754ac898378c747301cd5/Docs/Screenshot%202025-11-16%20073556.png)
 
+## 📁 Project Structure
+
+.
+├── Diamondprice_prediction.ipynb     # Main notebook
+├── DiamondsPrices2022.csv            # Dataset
+├── diamond_price_model.pkl           # Trained model
+├── README.md                         # This file
+└── requirements.txt                  # (Optional) pip freeze > requirements.txt
+
 ## 📊 Project Overview
 
 This project performs **end-to-end data analysis and modeling** to predict diamond prices with high accuracy using the classic **Diamonds dataset**.
@@ -87,12 +96,5 @@ print("The model predicts the price for the last row:", prediction[0])
 print("Actual value is:", df_new['Price_in_rs'].iloc[-1])  # Fetching the actual value from the dataframe
 ```
 
-## 📁 Project Structure
 
-.
-├── Diamondprice_prediction.ipynb     # Main notebook
-├── DiamondsPrices2022.csv            # Dataset
-├── diamond_price_model.pkl           # Trained model
-├── README.md                         # This file
-└── requirements.txt                  # (Optional) pip freeze > requirements.txt
 
